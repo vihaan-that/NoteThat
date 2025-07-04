@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.1
+pytest==7.4.3
+langchain==0.1.1
+langchain-community==0.0.16
+qdrant-client==1.7.0
+sentence-transformers==2.2.2
+llama-cpp-python==0.2.26
+python-multipart==0.0.6
+numpy==1.26.3
+transformers==4.36.2
+safetensors==0.4.1
+python-dotenv==1.0.0
+tqdm==4.66.2
+pytest-asyncio==0.23.5
+httpx==0.25.2

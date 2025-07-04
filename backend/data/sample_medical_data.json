@@ -1,0 +1,32 @@
+[
+  {
+    "id": "med001",
+    "title": "Diabetes Overview",
+    "text": "Diabetes mellitus is a group of metabolic disorders characterized by a high blood sugar level over a prolonged period of time. Symptoms often include frequent urination, increased thirst and increased appetite. If left untreated, diabetes can cause many health complications. Acute complications can include diabetic ketoacidosis, hyperosmolar hyperglycemic state, or death. Serious long-term complications include cardiovascular disease, stroke, chronic kidney disease, foot ulcers, damage to the eyes, damage to nerves, and cognitive impairment. Diabetes is due to either the pancreas not producing enough insulin, or the cells of the body not responding properly to the insulin produced.",
+    "tags": ["diabetes", "endocrinology", "chronic disease"]
+  },
+  {
+    "id": "med002",
+    "title": "Hypertension",
+    "text": "Hypertension, also known as high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms. Long-term high blood pressure, however, is a major risk factor for stroke, coronary artery disease, heart failure, atrial fibrillation, peripheral arterial disease, vision loss, chronic kidney disease, and dementia. High blood pressure is classified as primary (essential) hypertension or secondary hypertension. About 90–95% of cases are primary, defined as high blood pressure due to nonspecific lifestyle and genetic factors. Lifestyle factors that increase the risk include excess salt in the diet, excess body weight, smoking, and alcohol use. The remaining 5–10% of cases are categorized as secondary high blood pressure, defined as high blood pressure due to an identifiable cause, such as chronic kidney disease, narrowing of the kidney arteries, an endocrine disorder, or the use of birth control pills.",
+    "tags": ["hypertension", "cardiology", "chronic disease"]
+  },
+  {
+    "id": "med003",
+    "title": "Asthma",
+    "text": "Asthma is a long-term inflammatory disease of the airways of the lungs. It is characterized by variable and recurring symptoms, reversible airflow obstruction, and easily triggered bronchospasms. Symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath. These may occur a few times a day or a few times per week. Depending on the person, asthma symptoms may become worse at night or with exercise. Asthma is thought to be caused by a combination of genetic and environmental factors. Environmental factors include exposure to air pollution and allergens. Other potential triggers include medications such as aspirin and beta blockers. Diagnosis is usually based on the pattern of symptoms, response to therapy over time, and spirometry. Asthma is classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate. It may also be classified as atopic or non-atopic, where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction.",
+    "tags": ["asthma", "pulmonology", "chronic disease"]
+  },
+  {
+    "id": "med004",
+    "title": "Migraine",
+    "text": "A migraine is a primary headache disorder characterized by recurrent headaches that are moderate to severe. Typically, the headaches affect one half of the head, are pulsating in nature, and last from 2 to 72 hours. Associated symptoms may include nausea, vomiting, and sensitivity to light, sound, or smell. The pain is generally made worse by physical activity. Up to one-third of people have an aura: typically a short period of visual disturbance that signals that the headache will soon occur. Occasionally, an aura can occur with little or no headache following it. Migraines are believed to be due to a mixture of environmental and genetic factors. About two-thirds of cases run in families. Changing hormone levels may also play a role, as migraines affect slightly more boys than girls before puberty and two to three times more women than men. The risk of migraines usually decreases during pregnancy and after menopause. The underlying mechanisms are not fully known. They are, however, believed to involve the nerves and blood vessels of the brain.",
+    "tags": ["migraine", "neurology", "pain"]
+  },
+  {
+    "id": "med005",
+    "title": "Alzheimer's Disease",
+    "text": "Alzheimer's disease (AD) is a neurodegenerative disease that usually starts slowly and progressively worsens. It is the cause of 60–70% of cases of dementia. The most common early symptom is difficulty in remembering recent events. As the disease advances, symptoms can include problems with language, disorientation (including easily getting lost), mood swings, loss of motivation, self-neglect, and behavioral issues. As a person's condition declines, they often withdraw from family and society. Gradually, bodily functions are lost, ultimately leading to death. Although the speed of progression can vary, the typical life expectancy following diagnosis is three to nine years. The cause of Alzheimer's disease is poorly understood. There are many environmental and genetic risk factors associated with its development. The strongest genetic risk factor is from an allele of APOE. Other risk factors include a history of head injury, clinical depression, and high blood pressure. The disease process is largely associated with amyloid plaques, neurofibrillary tangles, and loss of neuronal connections in the brain. A probable diagnosis is based on the history of the illness and cognitive testing with medical imaging and blood tests to rule out other possible causes. Initial symptoms are often mistaken for normal aging.",
+    "tags": ["alzheimer's", "neurology", "dementia"]
+  }
+]
